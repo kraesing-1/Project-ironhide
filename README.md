@@ -1,5 +1,5 @@
 # Project Ironhide 
-Creator - L.Kraesing
+Creator - L. Kraesing
 ___________________________________________________
 ## A Tool designed to extract a set of specific files from Illumina DRAGEN SOS reports. 
 
